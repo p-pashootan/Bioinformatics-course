@@ -1,2 +1,2 @@
 # Bioinformatics-course
-### Bioinformatics asaignemnts for course at SATIM (2025)
+### Bioinformatics assignemnts for PhD course at SATIM (2025)
